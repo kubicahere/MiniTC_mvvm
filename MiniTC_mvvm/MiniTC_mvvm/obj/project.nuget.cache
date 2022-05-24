@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rR2RvkaEzWo+mq+nirU/yubcJowry+0WgeO04KWD2dQjV7O+7lZusi+ucTZ94ncED6bgcdFiMil7a338AT1NKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kubica\\Documents\\C#_STUDIA\\MiniTC_mvvm\\MiniTC_mvvm\\MiniTC_mvvm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kubica\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
